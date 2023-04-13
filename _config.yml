@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Maris
 middle_name: F.L.
 last_name: Galesloot
-email: <a href="javascript:location='mailto:\u006d\u0061\u0072\u0069\u0073\u002e\u0067\u0061\u006c\u0065\u0073\u006c\u006f\u006f\u0074\u0040\u0072\u0075\u002e\u006e\u006c';void 0">maris dot galesloot at ru dot nl</a>
+email: #<a href="javascript:location='mailto:\u006d\u0061\u0072\u0069\u0073\u002e\u0067\u0061\u006c\u0065\u0073\u006c\u006f\u006f\u0074\u0040\u0072\u0075\u002e\u006e\u006c';void 0">maris dot galesloot at ru dot nl</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal (academic) page.
 footer_text: >
@@ -118,7 +118,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Thoughts & Scrambles # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
@@ -148,15 +148,15 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: marisgg # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+  # - name: medium.com
+    # rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
