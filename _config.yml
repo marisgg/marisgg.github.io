@@ -6,17 +6,16 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Maris
 middle_name: F.L.
 last_name: Galesloot
-email: stuurmemailsmaatje@gmail.com
+email: <a href="javascript:location='mailto:\u006d\u0061\u0072\u0069\u0073\u002e\u0067\u0061\u006c\u0065\u0073\u006c\u006f\u006f\u0074\u0040\u0072\u0075\u002e\u006e\u006c';void 0">maris dot galesloot at ru dot nl</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal (academic) page.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🎓  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://marisgg.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -104,7 +103,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
