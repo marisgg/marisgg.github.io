@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at the <a href='https://sws.cs.ru.nl/'>Department of Software Science (SWS)</a>, <a href='https://www.ru.nl/icis/'>Institute for Computing and Information Sciences (iCIS)</a>, <a href='https://www.ru.nl/icis/'>Radboud University</a>.
+subtitle: PhD Candidate at the <a href='https://sws.cs.ru.nl/'>Department of Software Science (SWS)</a>, <a href='https://www.ru.nl/icis/'>Institute for Computing and Information Sciences (iCIS)</a>, <a href='https://www.ru.nl/'>Radboud University</a>.
 
 profile:
   align: right
