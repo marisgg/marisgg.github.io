@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Project page, see also <a href='https://lava-lab.github.io/projects'>here</a>.
+description: Project page, see also <a href='https://lava-lab.github.io/projects'>here</a> for the projects in our lab available to MSc students.
 nav: true
 nav_order: 2
 # display_categories: [work, fun]
