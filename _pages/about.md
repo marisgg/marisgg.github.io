@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://ellis.eu/projects/model-based-reinforcement-learning-and-planning-under-uncertainty'>ELLIS PhD Candidate</a> @ Radboud University Nijmegen.
 
