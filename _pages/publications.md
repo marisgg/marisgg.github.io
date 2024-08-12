@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications in reversed chronological order.
-years: [2023, 2024]
+description: This list contains my articles in proceedings, workshop/arXiv papers, as well as my master's thesis.
+years: [2024, 2023]
 nav: true
 nav_order: 1
 ---
