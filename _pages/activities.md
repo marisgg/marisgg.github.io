@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/
 title: Activities
 description: An overview of my academic service.
-nav: false
+nav: true
 nav_order: 3
 ---
 
