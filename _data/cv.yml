@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Maris Franciscus Leander Galesloot
+    - name: Nationality
+      value: Dutch
 
 - title: Education
   type: time_table
@@ -12,7 +14,7 @@
       year: 2023
       description:
         - Specialised in Data Science.
-        - Graduated with distinction (*Cum Laude*).
+        - Graduated with distinction (Cum Laude).
 
 - title: Honors and Awards
   type: time_table
