@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: This list contains my articles in proceedings, workshop/arXiv papers, as well as my master's thesis.
-years: [2024, 2023]
+years: [2025, 2024, 2023]
 nav: true
 nav_order: 1
 ---
