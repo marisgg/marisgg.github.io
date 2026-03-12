@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://ellis.eu/projects/model-based-reinforcement-learning-and-planning-under-uncertainty'>ELLIS PhD Candidate</a> @ Radboud University Nijmegen (NL) & University of Oxford (UK).
+subtitle: <a href='https://ellis.eu/student/2024-maris-galesloot'>ELLIS PhD Candidate</a> @ Radboud University Nijmegen (NL) & University of Oxford (UK).
 
 
 profile:
