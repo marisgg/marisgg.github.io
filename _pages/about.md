@@ -21,7 +21,7 @@ My main affiliation is with the <a href='https://sws.cs.ru.nl/'>Department of So
 
 There, I am supervised by <a href='https://www.nilsjansen.org'>Prof. Dr. Nils Jansen</a>, part of the <a href='https://ai-fm.org/'>AI-FM</a> research group and member of the coordinator team of the <a href='https://www.ru.nl/ai/ellis-unit'>ELLIS Unit Nijmegen</a>. 
 
-My ELLIS co-supervisor is <a href='https://www.robots.ox.ac.uk/~nickh/'>Prof. Dr. Nick Hawes</a> from the <a href='https://ori.ox.ac.uk/labs/goals/'>GOALS</a> research group of the <a href='https://ori.ox.ac.uk/'>Oxford Robotics Institute</a> located at the University of Oxford in the United Kingdom. Hence, I spent 6-months as a PhD student at the University of Oxford between February and August 2025.
+My ELLIS co-supervisor is <a href='https://www.robots.ox.ac.uk/~nickh/'>Prof. Dr. Nick Hawes</a> from the <a href='https://ori.ox.ac.uk/labs/goals/'>GOALS</a> research group of the <a href='https://ori.ox.ac.uk/'>Oxford Robotics Institute</a> located at the University of Oxford in the United Kingdom. Hence, I spent 6-months as a PhD student at the University of Oxford between February and August 2025, during which I was an associate member of the MCR of Exeter College.
 
 My research interests revolve around **sequential decision-making under uncertainty**. More specifically, my PhD research specializes in (online) **planning under uncertainty** and **model-based reinforcement learning** with a touch of **probabilistic verification** for **partially observable and uncertain environments**. 
 Such environments are typically modelled by (robust) extensions or (proper) subsets of **partially observable Markov decision processes** (POMDPs).
