@@ -22,12 +22,12 @@ External Reviewer
 Talks
 ------
 - 2023:
-    - BNAIC 2023 & ELLIS BeNeLux PhD Meetup in Delft
+    - BNAIC 2023 & ELLIS BeNeLux PhD Meetup at TU Delft (NL).
 - 2024: 
-    - Workshop on Epistemic Uncertainty, University of Oxford.
-    - AI-FM Seminar in Dagstuhl
+    - Workshop on Epistemic Uncertainty at the University of Oxford (UK).
+    - <a href='https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24361'>AI-FM Seminar</a> in Dagstuhl (GE)
 - 2025:
-    - University of Edinburgh (Visiting Antonio Vergari)
-    - IJCAI 2025 Montréal
-    - ECAI 2025
-    - TU Delft (SDM Group, visiting Matthijs Spaan)
+    - School of Informatics at the University of Edinburgh (UK), visiting Antonio Vergari.
+    - IJCAI 2025 in Montréal (CA).
+    - ECAI 2025 in Bologna (IT).
+    - SDM Group at TU Delft (NL), visiting Matthijs Spaan.
