@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first paper, entitled "Factored Online Planning in Many-Agent POMDPs" has been accepted for publication at AAAI-24!
+My first paper, entitled "Factored Online Planning in Many-Agent POMDPs" has been accepted for publication at AAAI 2024!

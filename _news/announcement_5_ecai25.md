@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, entitled "Pessimistic Iterative Planning with RNNs for Robust POMDPs", was accepted for publication at ECAI 2025! I presented an earlier version of the paper at EWRL 2024.
+Our paper, entitled "Pessimistic Iterative Planning with RNNs for Robust POMDPs", was accepted for publication at ECAI 2025! An earlier version of the paper was presented at EWRL 2024.
