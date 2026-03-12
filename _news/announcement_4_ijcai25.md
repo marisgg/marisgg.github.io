@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, entitled "Robust Finite-Memory Policy Gradients for Hidden-Model POMDPs", was accepted for publication at IJCAI 2025!
+Our paper, entitled <a href='https://www.ijcai.org/proceedings/2025/947'>Robust Finite-Memory Policy Gradients for Hidden-Model POMDPs</a>, was accepted for publication at IJCAI 2025!

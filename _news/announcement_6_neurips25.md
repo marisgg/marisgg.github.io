@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, entitled "On Evaluating Policies for Robust POMDPs", was accepted for publication at NeurIPS 2025! Joint main authorship with Eline Bovy and Merlijn Krale.
+Our paper, entitled <a href='https://openreview.net/pdf?id=l2Wl77TSYY'>On Evaluating Policies for Robust POMDPs</a>, was accepted for publication at NeurIPS 2025! Joint main authorship with Eline Bovy and Merlijn Krale.

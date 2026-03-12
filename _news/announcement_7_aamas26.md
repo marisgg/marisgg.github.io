@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, entitled "Finite-State Controllers for (Hidden-Model) POMDPs using Deep Reinforcement Learning", was accepted for publication at AAMAS 2026!
+Our paper, entitled <a href='https://arxiv.org/abs/2602.08734'>Finite-State Controllers for (Hidden-Model) POMDPs using Deep Reinforcement Learning</a>, was accepted for publication at AAMAS 2026!
