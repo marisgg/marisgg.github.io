@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My main affiliation is with the <a href='https://sws.cs.ru.nl/'>Department of Software Science (SWS)</a> of the <a href='https://www.ru.nl/icis/'>Institute for Computing and Information Sciences (iCIS)</a>, located at Radboud University in Nijmegen, the Netherlands. My PhD is part of the PhD program of <a href='https://ellis.eu/'>European Laboratory for Learning and Intelligent Systems (ELLIS)</a>.
+My affiliation is with the <a href='https://sws.cs.ru.nl/'>Department of Software Science (SWS)</a> of the <a href='https://www.ru.nl/icis/'>Institute for Computing and Information Sciences (iCIS)</a>, located at Radboud University in Nijmegen, the Netherlands. My PhD is part of the PhD program of <a href='https://ellis.eu/'>European Laboratory for Learning and Intelligent Systems (ELLIS)</a>.
 
 There, I am supervised by promotor <a href='https://www.nilsjansen.org'>Prof. Dr. Nils Jansen</a> and co-promotor <a href='https://sjunges.github.io/'>Dr. Sebastian Junges</a>, part of the <a href='https://ai-fm.org/'>AI-FM</a> research group and member of the coordinator team of the <a href='https://www.ru.nl/ai/ellis-unit'>ELLIS Unit Nijmegen</a>. 
 
