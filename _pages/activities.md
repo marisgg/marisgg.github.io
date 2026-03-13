@@ -9,7 +9,8 @@ nav_order: 3
 
 Program Committee
 ------
-- IJCAI-ECAI 2026
+- IJCAI 2026
+- CAV 2026 Artifact Evaluation (CAV-AE'26)
 - AISoLa 2024 Track C2: Verification meets Learning and Statistics
 
 External Reviewer
