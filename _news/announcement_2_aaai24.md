@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first paper, entitled <a href='https://ojs.aaai.org/index.php/AAAI/article/view/29689'>Factored Online Planning in Many-Agent POMDPs</a> has been accepted for publication at AAAI 2024!
+My first paper, entitled <a href='https://ojs.aaai.org/index.php/AAAI/article/view/29689'>Factored Online Planning in Many-Agent POMDPs</a> has been accepted for publication at <a href='https://aaai.org/conference/aaai/aaai-24/'>AAAI 2024</a>!
