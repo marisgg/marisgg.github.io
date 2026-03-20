@@ -6,3 +6,4 @@ related_posts: false
 ---
 
 Our paper, entitled <a href='https://www.ijcai.org/proceedings/2025/947'>Robust Finite-Memory Policy Gradients for Hidden-Model POMDPs</a>, was accepted for publication at <a href='https://2025.ijcai.org/'>IJCAI 2025</a>!
+Check out the invited <a href='https://aihub.org/2025/11/20/learning-robust-controllers-that-work-across-many-partially-observable-environments/'>blog post</a> for AIhub.
