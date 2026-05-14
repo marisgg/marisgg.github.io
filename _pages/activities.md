@@ -7,10 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-Program Committee
+Program Committee / Reviewer
 ------
+- NeurIPS 2026
 - IJCAI 2026
 - CAV 2026 Artifact Evaluation (CAV-AE'26)
+- EWRL 2025, 2026
+- TMLR (since 2026)
 - AISoLa 2024 Track C2: Verification meets Learning and Statistics
 
 External Reviewer
@@ -18,7 +21,8 @@ External Reviewer
 <!-- 2023 -->
 - 2023: SETTA, VMLS, NeurIPS
 - 2024: ECAI, ICRA, TACAS, NeurIPS
-- 2025: EWRL, TACAS
+- 2025: TACAS
+- 2026: TACAS
 
 Talks
 ------
