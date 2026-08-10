@@ -9,6 +9,7 @@ nav_order: 3
 
 Program Committee / Reviewer
 ------
+- AAAI 2026
 - NeurIPS 2026
 - IJCAI 2026
 - CAV 2026 Artifact Evaluation (CAV-AE'26)

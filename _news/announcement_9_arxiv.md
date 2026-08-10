@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our preprint, entitled <a href='https://arxiv.org/abs/2605.10293'>Robust Probabilistic Shielding for Safe Offline Reinforcement Learning</a> is available on arXiv.
+Our preprint, entitled <a href='https://arxiv.org/abs/2605.10293'>*Robust Probabilistic Shielding for Safe Offline Reinforcement Learning*</a> is available on arXiv.
 
