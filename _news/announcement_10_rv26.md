@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper, entitled [*Adaptive Probabilistic Shielding by Learning MDPs for Safe Reinforcement Learning*](https://link.springer.com/chapter/10.1007/978-3-032-41160-0_4) was accepted for publication at <a href='https://rv2026.smithengineering.queensu.ca/'>RV 2026</a>!
+Our paper, entitled [*Adaptive Probabilistic Shielding by Learning MDPs for Safe Reinforcement Learning*](https://link.springer.com/chapter/10.1007/978-3-032-41160-0_4) was accepted for publication at <a href='https://rv2026.smithengineering.queensu.ca/'>RV 2026</a>.
 
